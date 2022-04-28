@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Portuguese-GSD
 
 
 ## Data Format
